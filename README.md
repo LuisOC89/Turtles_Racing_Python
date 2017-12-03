@@ -13,19 +13,11 @@ link: https://www.python.org/downloads/release/python-363/
 ```
 
 ## Instructions (to make it work): 
-Get a copy of the project by copying the content of the python file named **Racing_Turtles_Fixed_Adjusted.py** and save it in Notepad with a *.py* extension. For running the project on your computer please watch the next video (click on image below).
-
-<a href="https://youtu.be/ezf69cKpxjE">
-<img src="images/GifFromVideo3.gif" width="600">
-</a>
-
-```
-link: https://youtu.be/ezf69cKpxjE
-```
+Get a copy of the project by copying the content of the python file named **racing_turtles_fixed_adjusted.py** and save it in Notepad with a *.py* extension. For running the project on your computer please watch the next video (click on image below).
 
 ## Built With
 
-* [Python](https://www.python.org/) 
+* [Python 3](https://www.python.org/) 
 
 ## Contributing
 
