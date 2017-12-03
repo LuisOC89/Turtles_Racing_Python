@@ -1,11 +1,9 @@
 # Turtles_Racing_Python
 It is a very simple and not *dried* program that simulates 4 turtles racing. 
 
-<img src="images/GifFromVideo5.gif" width="600">
+<img src="images/GifFromVideo5.gif" width="300">
 
 This program creates an environment for 4 turtles so they can race using Python 3. The result is random, we never know who is going to be the winner. At the end of the race, the python IDE will display the places in which each turtle arrived.
-
-<img src="http://i3.ytimg.com/vi/sMOZf4GN3oc/maxresdefault.jpg" width="600">
 
 ### Prerequisites
 You would have to have an IDE (Interface Development Environment) software that lets you execute Python files in your computer. The python IDE is free and can be directly downloaded from the python website [here.](https://www.python.org/downloads/release/python-363/)
