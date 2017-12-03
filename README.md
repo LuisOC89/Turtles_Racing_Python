@@ -16,7 +16,7 @@ link: https://www.python.org/downloads/release/python-363/
 Get a copy of the project by copying the content of the python file named **racing_turtles_fixed_adjusted.py** and save it in Notepad with a *.py* extension. For running the project on your computer please watch the next video (click here).
 
 <a href="https://www.youtube.com/watch?v=swdncjSMiRc">
-<img src="images/Capture.PNG" width="400">
+<img src="images/Capture2.PNG" width="300">
 </a>
 
 ## Built With
