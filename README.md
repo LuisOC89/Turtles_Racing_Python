@@ -1,4 +1,4 @@
-# Turtles Racing Python
+# Turtles_Racing_Python
 It is a very simple and not *dried* program that simulates 4 turtles racing. 
 
 <img src="images/GifFromVideo5.gif" width="300">
