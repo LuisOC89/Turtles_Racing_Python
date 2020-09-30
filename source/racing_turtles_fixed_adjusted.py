@@ -126,26 +126,16 @@ landscape.forward(200)
 landscape.end_fill()#landscape.fill(False)
 landscape.penup()
 
-#Getting the turtles ready (and nervous jaja)
-lance.shape('turtle')
-andy.shape('turtle')
-luis.shape("turtle")
-michael.shape("turtle")
-
 lance.color('Olive')
 andy.color('SaddleBrown')
 luis.color("ForestGreen")
 michael.color("DarkOliveGreen")
 
-lance.st()
-andy.st()
-luis.st()
-michael.st()
-
-lance.up()
-andy.up()                 
-luis.up()
-michael.up()
+#Getting the turtles ready (and nervous jaja)
+for pointer in [lance, andy, luis, michael]:
+    pointer.shape('turtle')
+    pointer.st()
+    pointer.up()
 
 lance.goto(-190,-95)
 andy.goto(-190,-125)
