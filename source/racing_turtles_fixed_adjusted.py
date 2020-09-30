@@ -133,9 +133,9 @@ michael.color("DarkOliveGreen")
 
 #Getting the turtles ready (and nervous jaja)
 for pointer in [lance, andy, luis, michael]:
-    pointer.shape('turtle')
     pointer.st()
     pointer.up()
+    pointer.shape('turtle')
 
 lance.goto(-190,-95)
 andy.goto(-190,-125)
